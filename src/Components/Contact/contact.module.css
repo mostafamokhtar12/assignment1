@@ -1,0 +1,13 @@
+.formy{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: rgb(201, 198, 198) solid 1px !important;
+    border-radius: 5px;
+}
+.formy:focus{
+    box-shadow: none !important;
+}
+.bgColor{
+    background-color: #1abc9cbd;
+}
